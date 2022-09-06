@@ -5,6 +5,17 @@ body{
     background-size: cover;
 }
 
+.shopNow{
+    position: relative; 
+    top: 200px;
+}
+
+.productHolder{
+    position: absolute; 
+    top: 900px;
+    right: 100px;
+}
+
 
 
 
