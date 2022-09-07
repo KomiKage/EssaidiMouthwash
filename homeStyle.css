@@ -16,11 +16,20 @@ body{
     right: 100px;
 }
 
+.homeText{
+  position: absolute;
+  top: 600px;
+  right: 800px;
+  width: 50%;
+  border-radius: 25px;
+  padding: 30px;
+  background-color: rgba(5, 218, 255, 0.166);
+}
 
 /*yar har fiddle dee dee*/
 
 .bgimage {
-    position: absolute;
+    position: static;
     top: 0px;
     width:100%;
     height:800px;
@@ -36,10 +45,10 @@ body{
   }
 
   .bgimage2 {
-    position: absolute;
+    position: static;
     top: 800px;
     width:100%;
-    height:800px;
+    height:600px;
     background: url('images/wesleyTingey.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -48,10 +57,10 @@ body{
   }
 
 .bgimage3 {
-  position: absolute;
-    top: 1600px;
+  position: static;
+    top: 1300px;
   width:100%;
-  height:800px;
+  height:600px;
   background: url('images/tommyKwak.jpg');
   background-repeat: no-repeat;
   background-position: center;
