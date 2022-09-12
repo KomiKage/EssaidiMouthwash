@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(215, 250, 237, 0.471);
+}
+
+.productHolder{
+    position: absolute;
+    top: 100px;
+}

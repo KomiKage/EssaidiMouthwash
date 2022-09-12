@@ -1,0 +1,10 @@
+body{
+  background-image: linear-gradient(to right, rgb(226, 254, 255) , rgb(229, 254, 255));
+}
+
+.faqText{
+    width: 50%;
+    border-radius:  15px 50px 30px;
+    padding: 30px;
+    background-color: rgba(5, 218, 255, 0.166);
+  }
